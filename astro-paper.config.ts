@@ -24,7 +24,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/filosofish",
+      url: "https://github.com/filosofish/astro-paper/",
     },
     search: "pagefind",
   },
